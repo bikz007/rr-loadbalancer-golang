@@ -1,0 +1,4 @@
+bin/
+pkg/
+src/cmd/main/main
+.DS_Store

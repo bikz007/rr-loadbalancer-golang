@@ -25,3 +25,5 @@ src
 |   |
 README.md
 ```
+
+Block Diagram : [Link](https://docs.google.com/drawings/d/1v6YWxEkyrJ1sxTDpI-xV39U3UQ8kzR3myPY6HtFa_Qs/edit?usp=sharing)
